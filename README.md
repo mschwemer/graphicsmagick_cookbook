@@ -20,8 +20,3 @@ To install just GraphicsMagick,
 
     include_recipe "graphicsmagick"
 
-Test
-====
-
-Just a test for my submodules ;-) Will be removed again
-
